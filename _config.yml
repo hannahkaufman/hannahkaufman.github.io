@@ -6,7 +6,7 @@ name                     : &name "Hannah Kaufman"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hannahkaufman.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -74,7 +74,7 @@ analytics:
 # Site Author
 author:
   name             : "Hannah Kaufman"
-  avatar           : "site-logo.png"
+  avatar           : "hkprofile.png"
   bio              : "Southwest Baptist University <br> Mathematics and Physics"
   location         : "Bolivar, MO"
   employer         :
