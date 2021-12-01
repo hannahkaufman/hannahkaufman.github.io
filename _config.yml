@@ -1,15 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Hannah Kaufman"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Hannah Kaufman"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +73,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hannah Kaufman"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "<br>Southwest Baptist University<br>Mathematics and Physics<br>Class of '22"
-  location         : "Bolivar, MO"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           :
-  googlescholar    :
-  email            : "hannahsuekaufman24@gmail.com"
-  researchgate     :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,20 +93,20 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/"
+  youtube          :
   wikipedia        :
 
 
