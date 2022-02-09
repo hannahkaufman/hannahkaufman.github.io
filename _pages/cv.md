@@ -11,25 +11,28 @@ redirect_from:
 
 Education
 ======
-* Southwest Baptist University, 2018 - Present
+* Southwest Baptist University, December 2022
+    * B.S., Mathematics and Physics (Minor in Computer Science)
+* Forsyth High School, May 2018
+    * Class Valedictorian
 
-Work experience
+Research Experience
 ======
-* Summer 2021: REU
-  * UCLA
-  * Duties included: Tagging issues
-  * Supervisor: Professor Jamie Haddock
+* University of California, Los Angeles REU
+  * Computational and Applied Math (CAM)
+  * Kaczmarz Methods for Large-Scale Data Analysis
+  * Advisor: Dr. Jamie Haddock
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Southwest Baptist University
+  * Chemistry Department
+  * Testing blood alcohol content with gas chromatography
+  * Advisor: Dr. Danielle West
   
-Skills
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Southwest Baptist
+    * Skill 2
+    * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
