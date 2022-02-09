@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "About Me"
-permalink: /aboutme/
+title: "Memes"
+permalink: /memes/
 author_profile: true
 redirect_from:
   - /resume
