@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-======
+## Education
 * Southwest Baptist University, December 2022
     * B.S., Mathematics and Physics (Minor in Computer Science)
 * Forsyth High School, May 2018
     * Class Valedictorian
 
-# Research Experience
-======
+## Research Experience
 * University of California, Los Angeles REU
   * Computational and Applied Math (CAM)
   * Kaczmarz Methods for Large-Scale Data Analysis
@@ -28,8 +26,7 @@ redirect_from:
   * Testing blood alcohol content with gas chromatography
   * Advisor: Dr. Danielle West
   
-Teaching Experience
-======
+## Teaching Experience
 * Southwest Baptist
     * Teaching Assistant for General Chemistry I & II
     * University Mathematics Tutoring Service
@@ -38,17 +35,16 @@ Teaching Experience
 * Forsyth High School
     * Teaching Assistant for 8th grade mathematics
 
-Publications & Reports
-======
-A. Froelich, W. Gilroy, N. Hu, H. Kaufman, A. Sietsema. "Large Linear Systems Final Report." 2021.
+## Publications & Reports
+  A. Froelich, W. Gilroy, N. Hu, H. Kaufman, A. Sietsema. "Large Linear Systems Final Report." 2021.
   
-Presentations
-======
-* UCLA CAM REU final research presentation, 2021 (virtual)
-* SBU Undergraduate Research in Mathematics, 2021
+## Presentations
 
-# Awards & Honors
-======
+  UCLA CAM REU final research presentation, 2021 (virtual)
+  SBU Undergraduate Research in Mathematics, 2021
+
+## Awards & Honors
+
 Ingman Distinguished Scholars Award 
 SBU Grant
 Dutile Honors Award
@@ -57,9 +53,9 @@ SBU President's List
 Gordon and Judy Dutile Honors Program member
 Class Valedictorian
 
-# Extracurricular Activites
-======
+## Extracurricular Activites
 * Southwest Baptist University
+
     Association for Computing Machinery (ACM)
     Gordon and Judy Dutile Honors Program student advisory board member
     Dutile Honors Mentor & Mentee Program mentor
@@ -68,6 +64,7 @@ Class Valedictorian
     Freshman Orientation leader
     Business Ethics Colloquium
 * Forsyth High School
+
     National Honors Society (NHS) president
     Math Team vice president
     Chamber of Commerce junior member
@@ -76,7 +73,6 @@ Class Valedictorian
     Volleyball Team
     Bass Fishing Team
 
-# Languages & Skills
-======
-* English (native)
-* LaTeX, Matlab, Java, Python, Assembly
+## Languages & Skills
+  English (native)
+  LaTeX, Matlab, Java, Python, Assembly
