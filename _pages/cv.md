@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education
 **Southwest Baptist University, December 2022** \
-> B.S., Mathematics and Physics (Minor in Computer Science) \
+> B.S., Mathematics and Physics (Minor in Computer Science) <
 **Forsyth High School, May 2018** \
-    Class Valedictorian \ 
+    Class Valedictorian
 
 ## Research Experience
 * University of California, Los Angeles REU
