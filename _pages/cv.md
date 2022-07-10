@@ -13,7 +13,7 @@ redirect_from:
 
 -------
 
-* **Southwest Baptist University**, December 2022\
+* **Southwest Baptist University**, December 2022
 : B.S., Mathematics and Physics (Minor in Computer Science)
 * **Forsyth High School**, May 2018
 : Class Valedictorian
@@ -66,7 +66,7 @@ Dutile Honors Award\
 MO Higher Education Academic Scholarship - Bright Flight\
 SBU President's List\
 Gordon and Judy Dutile Honors Program member\
-Class Valedictorian\
+Class Valedictorian
 
 ## Extracurricular Activites
 
