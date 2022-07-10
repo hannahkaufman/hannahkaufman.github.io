@@ -10,9 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Southwest Baptist University**, December 2022
+
+======
+
+**Southwest Baptist University**, December 2022
 : B.S., Mathematics and Physics (Minor in Computer Science)
-* **Forsyth High School**, May 2018
+**Forsyth High School**, May 2018
 : Class Valedictorian
 
 ## Research Experience
