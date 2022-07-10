@@ -19,6 +19,9 @@ redirect_from:
 : Class Valedictorian
 
 ## Research Experience
+
+-------
+
 * **University of California, Los Angeles REU**, Summer 2021
 : Computational and Applied Math (CAM)
 : Kaczmarz Methods for Large-Scale Data Analysis
