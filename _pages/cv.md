@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-======
+-------
 
 **Southwest Baptist University**, December 2022
 : B.S., Mathematics and Physics (Minor in Computer Science)
