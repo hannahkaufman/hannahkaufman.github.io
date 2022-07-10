@@ -35,20 +35,20 @@ redirect_from:
 : Teaching Assistant for 8th grade mathematics
 
 ## Publications & Reports
-: A. Froelich, W. Gilroy, N. Hu, H. Kaufman, A. Sietsema. "Large Linear Systems Final Report." 2021.
+A. Froelich, W. Gilroy, N. Hu, H. Kaufman, A. Sietsema. "Large Linear Systems Final Report." 2021.
   
 ## Presentations
-: UCLA CAM REU final research presentation, 2021 (virtual)
-: SBU Undergraduate Research in Mathematics, 2021
+UCLA CAM REU final research presentation, 2021 (virtual)
+SBU Undergraduate Research in Mathematics, 2021
 
 ## Awards & Honors
-: Ingman Distinguished Scholars Award 
-: SBU Grant
-: Dutile Honors Award
-: MO Higher Education Academic Scholarship - Bright Flight
-: SBU President's List
-: Gordon and Judy Dutile Honors Program member
-: Class Valedictorian
+Ingman Distinguished Scholars Award 
+SBU Grant
+Dutile Honors Award
+MO Higher Education Academic Scholarship - Bright Flight
+SBU President's List
+Gordon and Judy Dutile Honors Program member
+Class Valedictorian
 
 ## Extracurricular Activites
 * **Southwest Baptist University**
@@ -69,5 +69,5 @@ redirect_from:
 : Bass Fishing Team
 
 ## Languages & Skills
-: English (native)
-: LaTeX, Matlab, Java, Python, Assembly
+English (native)
+LaTeX, Matlab, Java, Python, Assembly
