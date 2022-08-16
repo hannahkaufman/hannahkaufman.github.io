@@ -30,9 +30,9 @@ body:
 - type: textarea
     id: motication
     attributes:
-      label: Motivation
-      description: Why would this change be beneficial?
-      placeholder: Type here
+        label: Motivation
+        description: Why would this change be beneficial?
+        placeholder: Type here
     validations:
       required: true
 - type: textarea
