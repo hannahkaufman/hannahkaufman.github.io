@@ -12,29 +12,29 @@ body:
     validations:
       required: false
   - type: textarea
-   id: abstract
-   attributes:
-     label: Abstract
-     description: In 1 or 2 sentences, summarize the purpose of your proposed change.
-     placeholder: Type here
-     validations:
-       required: true
-  - type: textarea
-  id: specification
-  attributes:
-    label: Specification
-    description: Describe the change you would like to see.
-    placeholder: Type here
+    id: abstract
+    attributes:
+      label: Abstract
+      description: In 1 or 2 sentences, summarize the purpose of your proposed change.
+      placeholder: Type here
     validations:
       required: true
   - type: textarea
-   id: motication
-   attributes:
-     label: Motivation
-     description: Why would this change be beneficial?
-     placeholder: Type here
-   validations:
-     required: true
+    id: specification
+    attributes:
+      label: Specification
+      description: Describe the change you would like to see.
+      placeholder: Type here
+    validations:
+      required: true
+  - type: textarea
+    id: motication
+    attributes:
+      label: Motivation
+      description: Why would this change be beneficial?
+      placeholder: Type here
+    validations:
+      required: true
   - type: textarea
     id: examples
     attributes:
