@@ -16,35 +16,49 @@ body:
     attributes:
       label: Abstract
       description: In 1 or 2 sentences, summarize the purpose of your proposed change.
-      placeholder: Type your abstract here
+      placeholder: Type here
     validations:
       required: true
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-    validations:
-      required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: specification
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Specification
+      description: Describe the change you would like to see.
+      placeholder: Type here
+    validations:
+      required: true
+  - type: textarea
+    id: motication
+    attributes:
+      label: Motivation
+      description: Why would this change be beneficial?
+      placeholder: Type here
+    validations:
+      required: true
+- type: textarea
+    id: examples
+    attributes:
+      label: Examples
+      description: Show example(s) of this change being used.
+      placeholder: Type here
+    validations:
+      required: true
+  - type: textarea
+    id: alternativesConsidered
+    attributes:
+      label: Alternatives Considered
+      description: Did you consider another way to solve this issue?
+      placeholder: Type here
+    validations:
+      required: false
+ - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Put links to any resources you used or we that would be helpful for us to look at in regard to this change.
+      placeholder: Type here
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
