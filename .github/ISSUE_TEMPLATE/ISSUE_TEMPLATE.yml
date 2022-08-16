@@ -39,7 +39,7 @@ body:
     id: examples
     attributes:
       label: Examples
-      description: Show example(s) of this change being used.
+      description: Show examples of this change being used.
       placeholder: Type here
     validations:
       required: true
