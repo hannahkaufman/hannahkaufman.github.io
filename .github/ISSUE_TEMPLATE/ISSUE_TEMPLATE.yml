@@ -3,7 +3,7 @@ description: File a bug report
 title: "[Enhancement Proposal]: "
 labels: ["enhancement_proposal"]
 body:
-  - type: input
+- type: input
     id: contact
     attributes:
       label: Contact Details
@@ -11,7 +11,7 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
-  - type: textarea
+- type: textarea
     id: abstract
     attributes:
       label: Abstract
@@ -19,7 +19,7 @@ body:
       placeholder: Type here
     validations:
       required: true
-  - type: textarea
+- type: textarea
     id: specification
     attributes:
       label: Specification
@@ -27,7 +27,7 @@ body:
       placeholder: Type here
     validations:
       required: true
-  - type: textarea
+- type: textarea
     id: motication
     attributes:
       label: Motivation
@@ -43,7 +43,7 @@ body:
       placeholder: Type here
     validations:
       required: true
-  - type: textarea
+- type: textarea
     id: alternativesConsidered
     attributes:
       label: Alternatives Considered
@@ -51,7 +51,7 @@ body:
       placeholder: Type here
     validations:
       required: false
- - type: textarea
+- type: textarea
     id: references
     attributes:
       label: References
@@ -59,7 +59,7 @@ body:
       placeholder: Type here
     validations:
       required: false
-  - type: checkboxes
+- type: checkboxes
     id: terms
     attributes:
       label: Code of Conduct
