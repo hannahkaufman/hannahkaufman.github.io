@@ -1,5 +1,5 @@
-name: "Enhancement Proposal"
-description: "Fill this form out with your proposal."
+name: Bug Report
+description: File a bug report
 title: "[Enhancement Proposal]: "
 labels: ["enhancement_proposal"]
 body:
