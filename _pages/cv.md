@@ -21,7 +21,15 @@ redirect_from:
 ## Research Experience
 
 -------
-
+* **Massachusetts Institute of Technology (MIT)**, Summer 2022
+: Summer Geometry Initiative (SGI)
+: Fabrication Aware Similarity Metrics for Garment Sewing
+: Mentor: Dr. Mackenzie Leake
+: Minimal Currents for Line Drawing Vectorization
+: Mentors: Dr. Mikhail Bessmeltsev and Dr. Ed Chien
+: I♥LA Convex Optimization Cookbook
+: Mentors: Dr. Alec Jacobson and Dr. Yotam Gingold
+      
 * **University of California, Los Angeles REU**, Summer 2021
 : Computational and Applied Math (CAM)
 : Kaczmarz Methods for Large-Scale Data Analysis
