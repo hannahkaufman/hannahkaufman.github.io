@@ -52,7 +52,8 @@ redirect_from:
 
 -------
 
-A. Froelich, W. Gilroy, N. Hu, H. Kaufman, A. Sietsema. "[Large Linear Systems Final Report](file:///Users/hannahkaufman/Downloads/REU_2021_Kaczmarz_Methods_for_LLS_in_Data_Science%20(2).pdf)." 2021.
+A. Froelich, W. Gilroy, N. Hu, H. Kaufman, A. Sietsema. "Large Linear Systems Final Report." 2021.
+[[PDF]]](file:///Users/hannahkaufman/Downloads/REU_2021_Kaczmarz_Methods_for_LLS_in_Data_Science%20(2).pdf)
   
 ## Presentations
 
