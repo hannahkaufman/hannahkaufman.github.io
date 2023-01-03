@@ -8,7 +8,7 @@ main:
  #   url: /memes/
    
   - title: "About Me"
-    url: /aboutme/
+    url: /about/
 
 #  - title: "Talks"
 #    url: /talks/    
