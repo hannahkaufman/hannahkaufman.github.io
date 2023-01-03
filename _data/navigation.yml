@@ -6,6 +6,9 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Contact Me"
+    url: /contactme/
        
  # - title: "Memes"
  #   url: /memes/
