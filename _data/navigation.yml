@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Memes"
-    url: /memes/
+ # - title: "Memes"
+ #   url: /memes/
    
 #  - title: "Publications"
 #    url: /publications/
@@ -22,5 +22,5 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
