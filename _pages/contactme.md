@@ -10,4 +10,5 @@ author_profile: true
 
 **Email:** hannahsuekaufman24@gmail.com
 **Phone:** (417) 545-1652
-
+**YouTube:** hannahkaufman
+**Github:** hannahkaufman
